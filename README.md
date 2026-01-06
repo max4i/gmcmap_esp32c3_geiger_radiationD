@@ -27,7 +27,7 @@ Wiele metod dostępu: IP, mDNS (geiger.local),
 
 kod QR
 
-images/qr.jpg
+[images](https://github.com/max4i/gmcmap_esp32c3_geiger_radiationD/tree/main/images)
 
 Tryb AP - konfiguracja przez WiFi gdy brak sieci
 
