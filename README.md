@@ -27,6 +27,8 @@ Wiele metod dostępu: IP, mDNS (geiger.local),
 
 kod QR
 
+images/qr.jpg
+
 Tryb AP - konfiguracja przez WiFi gdy brak sieci
 
 Interfejs webowy - responsywny, nowoczesny design
