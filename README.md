@@ -63,9 +63,9 @@ Zasilanie bateryjne (do zastosowań mobilnych, lub jako bacup zasilania z sieci.
 🚀 Szybki start
 1. Instalacja
    potrzebne biblioteki arduino
-   # - WiFi
-# - WebServer
-# - Preferences
+   #- WiFi
+#- WebServer
+#- Preferences
 # - ESPmDNS
 # - ArduinoOTA
 # - HTTPClient
