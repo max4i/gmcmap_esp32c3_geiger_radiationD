@@ -59,3 +59,38 @@ Obudowa ochronna druk 3D (pliki stl w katalogu STL)
 Antena WiFi zewnętrzna (dla lepszego zasięgu, tylko jeżeli jest taka potrzeba)
 
 Zasilanie bateryjne (do zastosowań mobilnych, lub jako bacup zasilania z sieci.)
+
+🚀 Szybki start
+1. Instalacja
+   potrzebne biblioteki arduino
+   # - WiFi
+# - WebServer
+# - Preferences
+# - ESPmDNS
+# - ArduinoOTA
+# - HTTPClient
+
+2. Podłączenie sprzętowe
+   GEIGER_PIN     -> GPIO4
+LED_PIN        -> GPIO8 (WS2812 lub dioda)
+CONFIG_RESET_PIN -> GPIO9 (przycisk)
+
+3. Pierwsze uruchomienie
+Wgraj firmware na ESP32-C3
+
+Połącz się z siecią WiFi Geiger-AP
+
+Przejdź do http://192.168.4.1
+
+Skonfiguruj swoją sieć WiFi
+
+System zrestartuje się i połączy z Twoją siecią
+
+📡 Dostęp do systemu
+Po uruchomieniu dostępny przez:
+
+🌍 Adres IP
+http://[adres-IP-twojego-ESP32]/
+🔍 mDNS (Automatyczne nazwy)
+http://geiger.local/
+http://geigercnt.local/
