@@ -1,4 +1,4 @@
-Geiger DIY Monitor
+Geiger DIY Monitor 
 
 System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap.com.
 
@@ -20,11 +20,11 @@ Dawka dzienna - całkowita dawka od początku dnia
 
 🌐 Sieć i dostęp
 
-Wiele metod dostępu: IP, mDNS (geiger.local),
+Wiele metod dostępu: IP, mDNS (geiger.local), 
 
 kod QR
 
-![A](images/qr.jpg)
+![QR Code](images/qr.jpg)
 
 Tryb AP - konfiguracja przez WiFi gdy brak sieci
 
@@ -71,28 +71,21 @@ Antena WiFi zewnętrzna (do zwiększenia zasięgu, tylko jeżeli jest taka potrz
 Zasilanie bateryjne (do zastosowań mobilnych, lub jako bacup zasilania z sieci na wypadek jego zaniku.)
 
 🚀 Szybki start
+1. Instalacja
+   potrzebne biblioteki arduino
+- WiFi
+- WebServer
+- Preferences
+- ESPmDNS
+- ArduinoOTA
+- HTTPClient
 
-Instalacja
-potrzebne biblioteki arduino
-
-WiFi
-
-WebServer
-
-Preferences
-
-ESPmDNS
-
-ArduinoOTA
-
-HTTPClient
-
-Podłączenie sprzętowe
-GEIGER_PIN -> GPIO4
-LED_PIN -> GPIO8 (WS2812 lub dioda)
+2. Podłączenie sprzętowe
+   GEIGER_PIN     -> GPIO4
+LED_PIN        -> GPIO8 (WS2812 lub dioda)
 CONFIG_RESET_PIN -> GPIO9 (przycisk)
 
-Pierwsze uruchomienie
+3. Pierwsze uruchomienie
 
 Wgraj firmware na ESP32-C3
 
@@ -161,13 +154,13 @@ Dane będą automatycznie wysyłane co 6 minut
 Format wysyłanych danych:
 
 http://www.gmcmap.com/log2.asp?
-AID=[Account_ID]&
-GID=[Geiger_ID]&
-CPM=[2-min_avg]&
-ACPM=[10-min_avg]&
-uSV=[µSv/h]
+  AID=[Account_ID]&
+  GID=[Geiger_ID]&
+  CPM=[2-min_avg]&
+  ACPM=[10-min_avg]&
+  uSV=[µSv/h]
 
-🏗️ Architektura systemu
+  🏗️ Architektura systemu
 Warstwa sprzętowa:
 ESP32-C3 - mikrokontroler główny
 
@@ -214,31 +207,26 @@ Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalne
 
 📸 Galeria interfejsu webowego
 
-![Dashboard - Panel główny](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap2.jpg)
+![Dashboard - Panel główny](images/snap2.jpg)
 
-![Pomiary w czasie rzeczywistym](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap3.jpg)
+![Pomiary w czasie rzeczywistym](images/snap3.jpg)
 
-![Strona konfiguracyjna WiFi](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap4.jpg)
+![Strona konfiguracyjna WiFi](images/snap4.jpg)
 
-![Kalibracja współczynnika](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap5.jpg)
+![Kalibracja współczynnika](images/snap5.jpg)
 
-![Statystyki systemu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap6.jpg)
+![Statystyki systemu](images/snap6.jpg)
 
-![Słownik pojęć](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap7.jpg)
+![Słownik pojęć](images/snap7.jpg)
 
-![Diagnostyka systemu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap8.jpg)
+![Diagnostyka systemu](images/snap8.jpg)
 
-![Instrukcja kalibracji](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap9.jpg)
+![Instrukcja kalibracji](images/snap9.jpg)
 
-![Metody dostępu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap10.jpg)
+![Metody dostępu](images/snap10.jpg)
 
-![Informacje o projekcie](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap11.jpg)
+![Informacje o projekcie](images/snap11.jpg)
 
-![Monitorowanie w trybie AP](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap12.jpg)
+![Monitorowanie w trybie AP](images/snap12.jpg)
 
-![Pełny widok interfejsu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap13.jpg)
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap11.jpg
-
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap12.jpg
-
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap13.jpg
+![Pełny widok interfejsu](images/snap13.jpg)
