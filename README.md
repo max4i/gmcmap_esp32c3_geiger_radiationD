@@ -207,9 +207,8 @@ Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalne
 
 📸 Galeria interfejsu webowego
 
-![QR Code](images/qr.jpg)
 
-![Dashboard](images/snap2.jpg)
+![Dashboard](images/Snap2.jpg)
 
 ![Pomiary w czasie rzeczywistym](images/snap3.jpg)
 
