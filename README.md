@@ -4,10 +4,13 @@ System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap
 
 
 Aamatorski system do monitorowania promieniowania tła naturalnego z interfejsem webowym,
+
 kalibracją i integracją z GMCMap.com.
 
 📋 Funkcje
+
 🔬 Pomiar promieniowania
+
 CPM (Counts Per Minute) - średnia 2-minutowa
 
 ACPM (Average CPM) - średnia 10-minutowa
@@ -19,7 +22,6 @@ Stabilność pomiaru - wskaźnik jakości pomiaru
 Dawka dzienna - całkowita dawka od początku dnia
 
 🌐 Sieć i dostęp
-
 
 Wiele metod dostępu: IP, mDNS (geiger.local), 
 
