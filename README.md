@@ -64,11 +64,11 @@ Zasilanie bateryjne (do zastosowań mobilnych, lub jako bacup zasilania z sieci.
 1. Instalacja
    potrzebne biblioteki arduino
    #- WiFi
-#- WebServer
-#- Preferences
-# - ESPmDNS
-# - ArduinoOTA
-# - HTTPClient
+- WebServer
+- Preferences
+- ESPmDNS
+- ArduinoOTA
+- HTTPClient
 
 2. Podłączenie sprzętowe
    GEIGER_PIN     -> GPIO4
