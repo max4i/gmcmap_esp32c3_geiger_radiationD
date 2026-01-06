@@ -209,7 +209,7 @@ Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalne
 
 ![QR Code](images/qr.jpg)
 
-![Dashboard - Panel główny](images/snap2.jpg)
+![Dashboard](images/snap2.jpg)
 
 ![Pomiary w czasie rzeczywistym](images/snap3.jpg)
 
