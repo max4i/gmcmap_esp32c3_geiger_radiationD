@@ -1,11 +1,8 @@
-Geiger DIY Monitor 
+Geiger DIY Monitor
 
 System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap.com.
 
-
-Aamatorski system do monitorowania promieniowania tła naturalnego z interfejsem webowym,
-
-kalibracją i integracją z GMCMap.com.
+Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem webowym, kalibracją i integracją z GMCMap.com.
 
 📋 Funkcje
 
@@ -23,11 +20,11 @@ Dawka dzienna - całkowita dawka od początku dnia
 
 🌐 Sieć i dostęp
 
-Wiele metod dostępu: IP, mDNS (geiger.local), 
+Wiele metod dostępu: IP, mDNS (geiger.local),
 
 kod QR
 
-![QR Code](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/qr.jpg)
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/qr.jpg
 
 Tryb AP - konfiguracja przez WiFi gdy brak sieci
 
@@ -74,22 +71,29 @@ Antena WiFi zewnętrzna (do zwiększenia zasięgu, tylko jeżeli jest taka potrz
 Zasilanie bateryjne (do zastosowań mobilnych, lub jako bacup zasilania z sieci na wypadek jego zaniku.)
 
 🚀 Szybki start
-1. Instalacja
-   potrzebne biblioteki arduino
-- WiFi
-- WebServer
-- Preferences
-- ESPmDNS
-- ArduinoOTA
-- HTTPClient
 
-2. Podłączenie sprzętowe
-   GEIGER_PIN     -> GPIO4
-LED_PIN        -> GPIO8 (WS2812 lub dioda)
+Instalacja
+potrzebne biblioteki arduino
+
+WiFi
+
+WebServer
+
+Preferences
+
+ESPmDNS
+
+ArduinoOTA
+
+HTTPClient
+
+Podłączenie sprzętowe
+GEIGER_PIN -> GPIO4
+LED_PIN -> GPIO8 (WS2812 lub dioda)
 CONFIG_RESET_PIN -> GPIO9 (przycisk)
 
-3. Pierwsze uruchomienie
-4. 
+Pierwsze uruchomienie
+
 Wgraj firmware na ESP32-C3
 
 Połącz się z siecią WiFi Geiger-AP
@@ -157,13 +161,13 @@ Dane będą automatycznie wysyłane co 6 minut
 Format wysyłanych danych:
 
 http://www.gmcmap.com/log2.asp?
-  AID=[Account_ID]&
-  GID=[Geiger_ID]&
-  CPM=[2-min_avg]&
-  ACPM=[10-min_avg]&
-  uSV=[µSv/h]
+AID=[Account_ID]&
+GID=[Geiger_ID]&
+CPM=[2-min_avg]&
+ACPM=[10-min_avg]&
+uSV=[µSv/h]
 
-  🏗️ Architektura systemu
+🏗️ Architektura systemu
 Warstwa sprzętowa:
 ESP32-C3 - mikrokontroler główny
 
@@ -208,3 +212,28 @@ Plugin system - dodatkowe czujniki i funkcje
 
 Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalnego. Nie nadaje się do pomiarów medycznych, przemysłowych ani sytuacji awaryjnych. Zawsze weryfikuj odczyty z oficjalnymi źródłami.
 
+📸 Galeria interfejsu webowego
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap2.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap3.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap4.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap5.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap6.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap7.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap8.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap9.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap10.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap11.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap12.jpg
+
+https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap13.jpg
