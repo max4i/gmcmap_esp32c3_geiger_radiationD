@@ -210,24 +210,24 @@ Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalne
 
 ![Dashboard](images/Snap2.jpg)
 
-![Pomiary w czasie rzeczywistym](images/snap3.jpg)
+![Pomiary w czasie rzeczywistym](images/Snap3.jpg)
 
-![Strona konfiguracyjna WiFi](images/snap4.jpg)
+![Strona konfiguracyjna WiFi](images/Snap4.jpg)
 
-![Kalibracja współczynnika](images/snap5.jpg)
+![Kalibracja współczynnika](images/Snap5.jpg)
 
-![Statystyki systemu](images/snap6.jpg)
+![Statystyki systemu](images/Snap6.jpg)
 
-![Słownik pojęć](images/snap7.jpg)
+![Słownik pojęć](images/Snap7.jpg)
 
-![Diagnostyka systemu](images/snap8.jpg)
+![Diagnostyka systemu](images/Snap8.jpg)
 
-![Instrukcja kalibracji](images/snap9.jpg)
+![Instrukcja kalibracji](images/Snap9.jpg)
 
-![Metody dostępu](images/snap10.jpg)
+![Metody dostępu](images/Snap10.jpg)
 
-![Informacje o projekcie](images/snap11.jpg)
+![Informacje o projekcie](images/Snap11.jpg)
 
-![Monitorowanie w trybie AP](images/snap12.jpg)
+![Monitorowanie w trybie AP](images/Snap12.jpg)
 
-![Pełny widok interfejsu](images/snap13.jpg)
+![Pełny widok interfejsu](images/Snap13.jpg)
