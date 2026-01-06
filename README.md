@@ -214,24 +214,29 @@ Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalne
 
 📸 Galeria interfejsu webowego
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap2.jpg
+![Dashboard - Panel główny](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap2.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap3.jpg
+![Pomiary w czasie rzeczywistym](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap3.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap4.jpg
+![Strona konfiguracyjna WiFi](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap4.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap5.jpg
+![Kalibracja współczynnika](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap5.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap6.jpg
+![Statystyki systemu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap6.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap7.jpg
+![Słownik pojęć](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap7.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap8.jpg
+![Diagnostyka systemu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap8.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap9.jpg
+![Instrukcja kalibracji](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap9.jpg)
 
-https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap10.jpg
+![Metody dostępu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap10.jpg)
 
+![Informacje o projekcie](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap11.jpg)
+
+![Monitorowanie w trybie AP](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap12.jpg)
+
+![Pełny widok interfejsu](https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap13.jpg)
 https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap11.jpg
 
 https://raw.githubusercontent.com/max4i/gmcmap_esp32c3_geiger_radiationD/main/images/snap12.jpg
