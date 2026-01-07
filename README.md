@@ -1,6 +1,6 @@
-# **Geiger DIY Monitor**
+# *Geiger DIY Monitor*
 
-System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap.com.
+## **System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap.com.**
 
 Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem webowym, kalibracją i integracją z GMCMap.com.
 
