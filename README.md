@@ -4,7 +4,7 @@
 
 Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem webowym, kalibracją i integracją z GMCMap.com.
 
-![Code](images/13.jpg)
+![Code](images/c.jpg)
 ![Code](images/1.jpg)
 ![Code](images/2.jpg)
 
