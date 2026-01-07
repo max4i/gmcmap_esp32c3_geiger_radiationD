@@ -7,7 +7,7 @@ Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem 
 ![Code](images/c.jpg)
 ![Code](images/1.jpg)
 ![Code](images/2.jpg)
-
+![Code](images/esp.jpg)
 ## 📋 Dostępne Funkcje
 
 🔬 Pomiar promieniowania
