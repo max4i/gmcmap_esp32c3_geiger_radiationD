@@ -1,4 +1,4 @@
-<center> # *Geiger DIY Monitor* <center>
+ # *Geiger DIY Monitor*
 
 ## **System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap.com.**
 
@@ -8,7 +8,7 @@ Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem 
 ![Code](images/1.jpg)
 ![Code](images/2.jpg)
 
-📋 Funkcje
+📋 Dostępne Funkcje
 
 🔬 Pomiar promieniowania
 
