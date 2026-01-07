@@ -8,7 +8,7 @@ Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem 
 ![Code](images/1.jpg)
 ![Code](images/2.jpg)
 
-📋 Dostępne Funkcje
+## 📋 Dostępne Funkcje
 
 🔬 Pomiar promieniowania
 
@@ -22,7 +22,7 @@ Stabilność pomiaru - wskaźnik jakości pomiaru
 
 Dawka dzienna - całkowita dawka od początku dnia
 
-🌐 Sieć i dostęp
+## 🌐 Sieć i dostęp
 
 Wiele metod dostępu: IP, mDNS (geiger.local), 
 
@@ -36,7 +36,7 @@ Interfejs webowy - responsywny, nowoczesny design
 
 OTA updates - aktualizacje przez WiFi
 
-⚙️ Konfiguracja i kalibracja
+## ⚙️ Konfiguracja i kalibracja
 
 Konfiguracja WiFi przez interfejs webowy
 
@@ -46,7 +46,7 @@ Integracja z GMCMap.com - automatyczne wysyłanie danych
 
 Reset do ustawień fabrycznych - przycisk fizyczny
 
-📊 Edukacja i diagnostyka
+## 📊 Edukacja i diagnostyka
 
 Pełne objaśnienia wszystkich pomiarów
 
@@ -56,7 +56,7 @@ Słownik pojęć - teoria promieniowania
 
 Diagnostyka systemu - stan pamięci, CPU, sieci
 
-🛠️ Wymagania sprzętowe
+## 🛠️ Wymagania sprzętowe
 
 Podstawowe:
 
@@ -74,7 +74,7 @@ Antena WiFi zewnętrzna (do zwiększenia zasięgu, tylko jeżeli jest taka potrz
 
 Zasilanie bateryjne (do zastosowań mobilnych, lub jako bacup zasilania z sieci na wypadek jego zaniku.)
 
-🚀 Szybki start
+## 🚀 Szybki start
 1. Instalacja
    potrzebne biblioteki arduino
 - WiFi
@@ -101,7 +101,7 @@ Skonfiguruj swoją sieć WiFi
 
 System zrestartuje się i połączy z Twoją siecią
 
-📡 Dostęp do systemu
+## 📡 Dostęp do systemu
 
 Po uruchomieniu dostępny przez:
 
@@ -119,7 +119,7 @@ Zeskanuj kod QR z interfejsu webowego
 
 Automatyczne przekierowanie do panelu
 
-🎯 Kalibracja
+## 🎯 Kalibracja
 Krok 1: Znajdź wartość referencyjną
 Odwiedź mapę PAA
 
@@ -145,7 +145,7 @@ Wprowadź obliczony współczynnik
 
 Zapisz i zrestartuj
 
-🌐 Integracja z GMCMap.com
+## 🌐 Integracja z GMCMap.com
 Konfiguracja:
 Zarejestruj się na gmcmap.com
 
@@ -153,16 +153,11 @@ Utwórz licznik (Geiger ID)
 
 Skopiuj AID i GID do konfiguracji systemu
 
-Dane będą automatycznie wysyłane co 6 minut
+Dane będą automatycznie wysyłane co 6 minut bo tyle wynosi minimaly odstęp czasu na przyjmowanie danych. 
 
 Format wysyłanych danych:
 
-http://www.gmcmap.com/log2.asp?
-  AID=[Account_ID]&
-  GID=[Geiger_ID]&
-  CPM=[2-min_avg]&
-  ACPM=[10-min_avg]&
-  uSV=[µSv/h]
+## http://www.gmcmap.com/log2.asp?AID=[Account_ID]&GID=[Geiger_ID]&CPM=[2-min_avg]&ACPM=[10-min_avg]&uSV=[µSv/h]
 
   🏗️ Architektura systemu
 Warstwa sprzętowa:
@@ -185,7 +180,7 @@ Serwer HTTP - interfejs webowy
 
 Menadżer WiFi - połączenie/AP/ponowne łączenie
 
-🔧 Zaawansowane funkcje
+## 🔧 Zaawansowane funkcje
 Bezpieczeństwo:
 Reset fabryczny - przytrzymanie przycisku 5 sekund
 
@@ -207,9 +202,9 @@ API REST - możliwość integracji z innymi systemami
 
 Plugin system - dodatkowe czujniki i funkcje
 
-Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalnego. Nie nadaje się do pomiarów medycznych, przemysłowych ani sytuacji awaryjnych. Zawsze weryfikuj odczyty z oficjalnymi źródłami.
+## Uwaga: Ten system jest przeznaczony do amatorskiego monitorowania tła naturalnego. Nie nadaje się do pomiarów medycznych, przemysłowych ani sytuacji awaryjnych. Zawsze weryfikuj odczyty z oficjalnymi źródłami.
 
-📸 Galeria interfejsu webowego
+## 📸 Galeria interfejsu WWW.
 
 
 ![Dashboard](images/Snap2.jpg)
