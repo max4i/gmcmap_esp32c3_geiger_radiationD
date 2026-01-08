@@ -232,6 +232,6 @@ Plugin system - dodatkowe czujniki i funkcje
 ![Pełny widok interfejsu](images/Snap13.jpg)
 
 
-# ==============================================================================================
+# ===============================
 ## ver. 0.54 
  pełnosprawne oprogramowanie, Błędów nie zauważono.
