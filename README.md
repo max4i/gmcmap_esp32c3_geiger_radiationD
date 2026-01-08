@@ -225,12 +225,13 @@ Plugin system - dodatkowe czujniki i funkcje
 
 ![Metody dostępu](images/Snap10.jpg)
 
-## ver. 0.54 
- pełnosprawne oprogramowanie, Błędów nie zauważono.
-
-
 ![Informacje o projekcie](images/Snap11.jpg)
 
 ![Monitorowanie w trybie AP](images/Snap12.jpg)
 
 ![Pełny widok interfejsu](images/Snap13.jpg)
+
+
+
+## ver. 0.54 
+ pełnosprawne oprogramowanie, Błędów nie zauważono.
