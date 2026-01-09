@@ -235,3 +235,10 @@ Plugin system - dodatkowe czujniki i funkcje
 # ===============================
 ## ver. 0.54 
  pełnosprawne oprogramowanie, Błędów nie zauważono.
+
+ # ===============================
+## ver. 0.58
+ dodane informacje o stanie technicznym tuby. 
+
+![Pełny widok interfejsu](images/Snap14.jpg)
+ 
