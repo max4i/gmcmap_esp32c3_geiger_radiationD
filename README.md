@@ -240,5 +240,5 @@ Plugin system - dodatkowe czujniki i funkcje
 ## ver. 0.58
  dodane informacje o stanie technicznym tuby. 
 
-![Pełny widok interfejsu](images/Snap14.jpg)
+![Pełny widok interfejsu](images/Snap15.jpg)
  
