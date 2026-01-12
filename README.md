@@ -242,3 +242,11 @@ Plugin system - dodatkowe czujniki i funkcje
 
 ![Pełny widok interfejsu](images/Snap15.jpg)
  
+ # ===============================
+## ver. 0.
+ dodane wykres CPPM oraz obciążenie mikrokontrolera
+
+![Pełny widok interfejsu](images/Snap18.jpg)
+![Pełny widok interfejsu](images/Snap19.jpg)
+
+ 
