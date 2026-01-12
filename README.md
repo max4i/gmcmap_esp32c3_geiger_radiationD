@@ -157,7 +157,7 @@ Dane będą automatycznie wysyłane co 6 minut bo tyle wynosi minimaly odstęp c
 
 Format wysyłanych danych:
 
-## http://www.gmcmap.com/log2.asp?AID=[Account_ID]&GID=[Geiger_ID]&CPM=[2-min_avg]&ACPM=[10-min_avg]&uSV=[µSv/h]
+### http://www.gmcmap.com/log2.asp?AID=[Account_ID]&GID=[Geiger_ID]&CPM=[2-min_avg]&ACPM=[10-min_avg]&uSV=[µSv/h]
 
   🏗️ Architektura systemu
 Warstwa sprzętowa:
@@ -243,7 +243,7 @@ Plugin system - dodatkowe czujniki i funkcje
 ![Pełny widok interfejsu](images/Snap15.jpg)
  
  # ===============================
-## ver. 0.
+## ver. 0.60
  dodane wykres CPPM oraz obciążenie mikrokontrolera
 
 ![Pełny widok interfejsu](images/Snap18.jpg)
