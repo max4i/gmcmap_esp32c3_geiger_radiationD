@@ -8,6 +8,10 @@ Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem 
 ![Code](images/1.jpg)
 ![Code](images/2.jpg)
 ![Code](images/esp.jpg)
+
+![Pełny widok interfejsu](images/Snap21.jpg)
+![Pełny widok interfejsu](images/Snap23.jpg)
+
 ## 📋 Dostępne Funkcje
 
 🔬 Pomiar promieniowania
