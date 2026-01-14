@@ -1,4 +1,4 @@
- # *Geiger DIY Monitor*
+ # *Geiger DIY Monitor dla GMCmap.com*
 
 ## **System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap.com.**
 
