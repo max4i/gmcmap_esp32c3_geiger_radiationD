@@ -253,4 +253,6 @@ Plugin system - dodatkowe czujniki i funkcje
 ![Pełny widok interfejsu](images/Snap18.jpg)
 ![Pełny widok interfejsu](images/Snap20.jpg)
 
- 
+  # ===============================
+## ver. 0.60a
+dodano automatyczne przechodzenie w tryb AP po zaniku sieci WIFI.
