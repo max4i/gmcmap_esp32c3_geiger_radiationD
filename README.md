@@ -251,8 +251,16 @@ Plugin system - dodatkowe czujniki i funkcje
  dodane wykres CPPM oraz obciążenie mikrokontrolera
 
 ![Pełny widok interfejsu](images/Snap18.jpg)
-![Pełny widok interfejsu](images/Snap20.jpg)
 
   # ===============================
 ## ver. 0.60a
 dodano automatyczne przechodzenie w tryb AP po zaniku sieci WIFI.
+
+  # ===============================
+## ver. geiger_v086env_gmcmap
+dodano kilka dupereli z czujnika bme680 i wysyłanie na dwa dodatkowe własne serwery.
+w katalogu dodano peły gotowy kod na stronę www. można samemu zmodyfikować nazwę miasta, herb czy też logo. 
+Przykład www.skwierzyna.com.pl
+
+![Pełny widok interfejsu](images/Snap21.jpg)
+![Pełny widok interfejsu](images/Snap20.jpg)
