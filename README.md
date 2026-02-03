@@ -3,7 +3,7 @@
 ## **System monitorowania promieniowania jonizującego zintegrowany z serwerem GMCmap.com.**
 
 Amatorski system do monitorowania promieniowania tła naturalnego z interfejsem webowym, kalibracją i integracją z GMCMap.com.
-
+![Code](images/123.jpg)
 ![Code](images/c.jpg)
 ![Code](images/1.jpg)
 ![Code](images/2.jpg)
